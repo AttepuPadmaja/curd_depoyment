@@ -1,56 +1,7 @@
-# -------------------------
-# Python / Django
-# -------------------------
 myenv/
-
+venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# SQLite database
-db.sqlite3
-
-# Environment variables
 .env
-*.env
-
-# Django local settings
-local_settings.py
-
-# Static & Media (generated)
-static/
-media/
-
-# Logs
-*.log
-
-# Django migration cache
-*/migrations/__pycache__/
-*/migrations/*.pyc
-
-# -------------------------
-# Virtual Environments
-# -------------------------
-myenv/
-venv/
-env/
-ENV/
-.venv/
-
-# -------------------------
-# IDE / Editor
-# -------------------------
-.vscode/
-.idea/
-
-# -------------------------
-# OS Files
-# -------------------------
-Thumbs.db
-.DS_Store
-
-# -------------------------
-# Git
-# -------------------------
-.git/
